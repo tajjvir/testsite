@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>My Test site</h1>
+<?php
+<button class="btn btn-outline-warning"><a class="nav-link active" href="array.php">Click Here</a></button>
+<button class="btn btn-outline-success"><a class="nav-link active" href="array.php">Click Here</a></button>
+?>
+
 </body>
 </html>
